@@ -2,4 +2,4 @@ whatithinkof_goa = "The mentor I got is very helpful and the vidoes have been ve
 
 goa_friends = " Sadly, I haven't been able to talk to anyone, because of my tight schedule. I am very busy at the moment, but if I get the chance I will join the voice chats."
 
-printstr((whatithinkof_goa) + " " + str(goa_friends))
+print((whatithinkof_goa) + " " + str(goa_friends))
